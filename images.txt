@@ -5,6 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nginx:1.20.2
+#nginx:1.20.2
 #指定arm架构   注释下面默认就是x86的 也可以指定x86
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+mysql:8.0.29
+--platform=linux/arm64
