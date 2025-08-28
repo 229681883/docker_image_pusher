@@ -9,4 +9,5 @@
 #--platform=linux/arm64 minio/minio:RELEASE.2025-05-24T17-08-30Z
 #--platform=linux/arm64 elasticsearch:9.0.2
 #--platform linux/arm64 itrocker/mineru:latest
-alexsuntop/mineru-sglang:latest
+#alexsuntop/mineru-sglang:latest
+alexsuntop/mineru-sglang:2.1.11
