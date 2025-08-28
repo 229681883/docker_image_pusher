@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 mysql:8.0.29
---platform=linux/arm64 minio/minio:RELEASE.2025-05-24T17-08-30Z
---platform=linux/arm64 elasticsearch:9.0.2
-
+#--platform=linux/arm64 mysql:8.0.29
+#--platform=linux/arm64 minio/minio:RELEASE.2025-05-24T17-08-30Z
+#--platform=linux/arm64 elasticsearch:9.0.2
+--platform linux/arm64 itrocker/mineru:latest
