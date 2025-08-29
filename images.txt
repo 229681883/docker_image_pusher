@@ -11,4 +11,4 @@
 #--platform linux/arm64 itrocker/mineru:latest
 #alexsuntop/mineru-sglang:latest
 #alexsuntop/mineru-sglang:2.1.11
---platform linux/arm64 lmsysorg/sglang:main-cann8.2.rc1-a3
+--platform=linux/arm64 lmsysorg/sglang:main-cann8.2.rc1-a3
