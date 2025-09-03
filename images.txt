@@ -13,4 +13,7 @@
 #alexsuntop/mineru-sglang:2.1.11
 #--platform=linux/arm64 lmsysorg/sglang:main-cann8.2.rc1-a3
 #--platform=linux/arm64 docker.m.daocloud.io/lmsysorg/sglang:v0.4.9.post6-cu126
---platform=linux/arm64 ubuntu:22.04
+#--platform=linux/arm64 ubuntu:22.04
+pgvector/pgvector:0.8.0
+mongo:8.0
+tarzan/maxkb4j:v1.0
