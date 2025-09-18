@@ -16,4 +16,4 @@
 #--platform=linux/arm64 ubuntu:20.04
 #--platform=linux/arm64 postgres:9.6
 postgres:9.6
-kong/kong-gateway:3.9.1
+kong/kong:3.9.1
