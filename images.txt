@@ -15,5 +15,6 @@
 #--platform=linux/arm64 docker.m.daocloud.io/lmsysorg/sglang:v0.4.9.post6-cu126
 #--platform=linux/arm64 ubuntu:20.04
 #--platform=linux/arm64 postgres:9.6
-postgres:9.6
-kong/kong:3.9.1
+#postgres:9.6
+#kong/kong:3.9.1
+mongo:7.0
