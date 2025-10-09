@@ -23,4 +23,5 @@
 #docker.elastic.co/beats/filebeat:8.14.3
 #docker.io/library/caddy:2-alpine
 #qdrant/qdrant
-minio/minio:RELEASE.2025-05-24T17-08-30Z
+#minio/minio:RELEASE.2025-05-24T17-08-30Z
+mysql:8.0.29
