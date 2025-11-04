@@ -24,4 +24,5 @@
 #docker.io/library/caddy:2-alpine
 #qdrant/qdrant
 #minio/minio:RELEASE.2025-05-24T17-08-30Z
-mysql:8.0.29
+#mysql:8.0.29
+ubuntu:20.04
