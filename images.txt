@@ -25,4 +25,5 @@
 #qdrant/qdrant
 #minio/minio:RELEASE.2025-05-24T17-08-30Z
 #mysql:8.0.29
-ubuntu:20.04
+#ubuntu:20.04
+paddlepaddle/paddleocr:latest
