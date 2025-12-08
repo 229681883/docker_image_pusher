@@ -27,5 +27,7 @@
 #mysql:8.0.29
 #ubuntu:20.04
 #paddlepaddle/paddleocr:latest
---platform=linux/arm64 python:3.10-slim
-python:3.10-slim
+#--platform=linux/arm64 python:3.10-slim
+#python:3.10-slim
+maven:3.8.8-openjdk-8
+openjdk:8-jre-slim
