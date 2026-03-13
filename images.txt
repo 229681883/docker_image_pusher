@@ -30,4 +30,4 @@
 #--platform=linux/arm64 python:3.10-slim
 #python:3.10-slim
 #maven:3.8.10-openjdk-8 AS build
-openjdk:8-jre-alpine
+openjdk:8-jdk-slim
