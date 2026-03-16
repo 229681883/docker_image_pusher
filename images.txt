@@ -33,4 +33,4 @@
 #ubuntu:22.04
 #docker.io/openjdk:8-jdk-slim
 #nvidia/cuda:12.2.0-runtime-ubuntu22.04
-nvidia/cuda:12.2.0-cudnn8-runtime-ubuntu22.04
+nvcr.io/nvidia/cuda:12.2.0-cudnn8-runtime-ubuntu22.04
