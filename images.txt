@@ -8,13 +8,6 @@
 #--platform=linux/arm64 mysql:8.0.29
 #--platform=linux/arm64 minio/minio:RELEASE.2025-05-24T17-08-30Z
 #--platform=linux/arm64 elasticsearch:9.0.2
-#--platform linux/arm64 itrocker/mineru:latest
-#alexsuntop/mineru-sglang:latest
-#alexsuntop/mineru-sglang:2.1.11
-#--platform=linux/arm64 lmsysorg/sglang:main-cann8.2.rc1-a3
-#--platform=linux/arm64 docker.m.daocloud.io/lmsysorg/sglang:v0.4.9.post6-cu126
-#--platform=linux/arm64 ubuntu:20.04
-#--platform=linux/arm64 postgres:9.6
 #postgres:9.6
 #kong/kong:3.9.1
 #mongo:7.0
@@ -25,13 +18,4 @@
 #qdrant/qdrant
 #minio/minio:RELEASE.2025-05-24T17-08-30Z
 #mysql:8.0.29
-#ubuntu:20.04
-#paddlepaddle/paddleocr:latest
-#--platform=linux/arm64 python:3.10-slim
-#python:3.10-slim
-#maven:3.8.10-openjdk-8 AS build
-#ubuntu:22.04
-#docker.io/openjdk:8-jdk-slim
-#nvidia/cuda:12.2.0-runtime-ubuntu22.04
-#nvidia/cuda:12.9.1-cudnn-runtime-ubuntu24.04
-nvidia/cuda:12.2.2-cudnn8-runtime-ubuntu22.04
+--platform=linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:8.8.0
