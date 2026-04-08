@@ -18,10 +18,10 @@
 #qdrant/qdrant
 #minio/minio:RELEASE.2025-05-24T17-08-30Z
 #mysql:8.0.29
-#--platform=linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:8.8.0
+--platform=linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:8.8.2
 #--platform=linux/arm64 redis:6.2
 #--platform=linux/arm64  nginx:1.28
 #--platform=linux/arm64 minio/minio:RELEASE.2023-03-22T06-36-24Z
-docker.elastic.co/elasticsearch/elasticsearch:8.8.2
+#docker.elastic.co/elasticsearch/elasticsearch:8.8.2
 #redis:6.2
 #minio/minio:RELEASE.2023-03-22T06-36-24Z
