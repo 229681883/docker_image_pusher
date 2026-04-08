@@ -24,4 +24,4 @@
 #--platform=linux/arm64 minio/minio:RELEASE.2023-03-22T06-36-24Z
 #docker.elastic.co/elasticsearch/elasticsearch:8.8.0
 redis:6.2
-minio/minio:RELEASE.2023-03-22T06-36-24Z
+#minio/minio:RELEASE.2023-03-22T06-36-24Z
