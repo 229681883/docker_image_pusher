@@ -25,4 +25,5 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.8.2
 #redis:6.2
 #minio/minio:RELEASE.2023-03-22T06-36-24Z
-eclipse-temurin:8-jre-focal
+#eclipse-temurin:8-jre-focal
+kibana:8.8.2
