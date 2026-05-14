@@ -27,4 +27,5 @@
 #minio/minio:RELEASE.2023-03-22T06-36-24Z
 #eclipse-temurin:8-jre-focal
 #kibana:8.8.2
-mysql:5.7
+#mysql:5.7
+nginx:1.28
