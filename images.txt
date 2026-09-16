@@ -28,4 +28,5 @@
 #eclipse-temurin:8-jre-focal
 #kibana:8.8.2
 #mysql:5.7
-nginx:1.28
+#nginx:1.28
+gitlab/gitlab-ce@sha256:05453dd1d9aba27c2c487613141596868409b4d03247647f7d66cb0b36f321b8
