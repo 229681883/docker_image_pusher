@@ -32,4 +32,5 @@
 #gitlab/gitlab-ce@sha256:05453dd1d9aba27c2c487613141596868409b4d03247647f7d66cb0b36f321b8
 #gitlab/gitlab-runner@sha256:5448611a3c54e7ba94cb28fa747c0ab636b1f4f6a9cdac031f2cab5bfb88b7dd
 #alpine:3.20
-python:3.8-slim-bookworm
+#python:3.8-slim-bookworm
+maven:3.9.9-eclipse-temurin-17
