@@ -33,4 +33,5 @@
 #gitlab/gitlab-runner@sha256:5448611a3c54e7ba94cb28fa747c0ab636b1f4f6a9cdac031f2cab5bfb88b7dd
 #alpine:3.20
 #python:3.8-slim-bookworm
-maven:3.9.9-eclipse-temurin-17
+#maven:3.9.9-eclipse-temurin-17
+node:20-alpine
